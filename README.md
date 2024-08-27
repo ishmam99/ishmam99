@@ -37,7 +37,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishmam99&label=Profile%20views&color=0e75b6&style=flat" alt="ishmam99" /> </p>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ishmam99&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ishmam99&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ishmam99&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishmam99&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
